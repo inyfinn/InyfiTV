@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta5",
-      "latestVersionCode": 1007,
+      "latestVersionName": "v1.1.0-beta6",
+      "latestVersionCode": 1008,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta5/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta6/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta5",
-      "latestVersionCode": 1007,
+      "latestVersionName": "v1.1.0-beta6",
+      "latestVersionCode": 1008,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta5/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta6/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1008,
+      "versionName": "v1.1.0-beta6",
+      "changes": "* Okienka ustawień (witryny, zakładek, pobranych, kart) zawsze mieszczą się na ekranie\n* Pasek adresu mniejszy i wyśrodkowany\n* Dodaj stronę: wybór z otwartych stron, z historii albo wpisanie ręczne; bez duplikatów\n* Gwiazdka dodaje i usuwa stronę jednym naciśnięciem\n* Język: Polski domyślnie, wybór w Ustawienia > Wygląd\n* Poświata na ekranach ustawień i telefonu\n* Naprawione: po otwarciu strony z kafelka ekran nie zostaje na starej klatce"
+    },
     {
       "versionCode": 1007,
       "versionName": "v1.1.0-beta5",
