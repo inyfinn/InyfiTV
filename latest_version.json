@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta7",
-      "latestVersionCode": 1009,
+      "latestVersionName": "v1.1.0-beta8",
+      "latestVersionCode": 1010,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta7/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta8/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta7",
-      "latestVersionCode": 1009,
+      "latestVersionName": "v1.1.0-beta8",
+      "latestVersionCode": 1010,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta7/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta8/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1010,
+      "versionName": "v1.1.0-beta8",
+      "changes": "* Powiększenie strony na pasku: pigułka z procentem, OK, potem lewo/prawo; zapamiętywane dla strony\n* Tryb sterowania także w menu pod trzema kropkami\n* Strony internetowe nie widzą już nazw po dawnym projekcie\n* Nowy wskaźnik ładowania strony"
+    },
     {
       "versionCode": 1009,
       "versionName": "v1.1.0-beta7",
