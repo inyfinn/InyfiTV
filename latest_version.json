@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta2",
-      "latestVersionCode": 1004,
+      "latestVersionName": "v1.1.0-beta3",
+      "latestVersionCode": 1005,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta2/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta3/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta2",
-      "latestVersionCode": 1004,
+      "latestVersionName": "v1.1.0-beta3",
+      "latestVersionCode": 1005,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta2/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta3/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1005,
+      "versionName": "v1.1.0-beta3",
+      "changes": "* Naprawione: strona startowa nie może już zostać wczytana z obcego serwera\n* Telefon łączy się wyłącznie z telewizorem w sieci domowej; kod QR albo adres z 6-cyfrowym kodem\n* Odtwarzacz: trzy motywy, domyślny Krawędź; przewijanie ±10 s bez zasłaniania napisów\n* Kursor: stały mały krok, płynny rozpęd, przewijanie przy krawędzi, wygląd i rozmiar w ustawieniach\n* Reklamy: blokada okien i przekierowań z ramki odtwarzacza, filtry liczone dla ramki\n* Filmy nie startują same bez Twojego kliknięcia\n* Pytania strony obsługiwane strzałkami i OK\n* Aktualizacja także z Ustawienia > O programie\n* Kafelki: Oglądaj Anime, Nasze Anime, Shinden"
+    },
     {
       "versionCode": 1004,
       "versionName": "v1.1.0-beta2",

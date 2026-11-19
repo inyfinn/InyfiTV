@@ -33,12 +33,13 @@ While you type in the address bar, the application sends the typed text to the *
 - **Update check.** The application asks `raw.githubusercontent.com` (GitHub) for the file `latest_version.json` of the repository https://github.com/inyfinn/InyfiTV, and downloads a new version from GitHub releases when you accept it. GitHub sees your network address. You can turn the check off: **Settings → About → Auto check for updates**.
 - **Ad blocking lists.** The lists of the ad blocker are downloaded from the sites that publish them (for example `easylist.to`, `ublockorigin.github.io`, `filters.adtidy.org`, GitHub). Those sites see your network address. Nothing about the pages you visit is sent to them.
 
-#### Sending to the TV ####
+#### Typing and sending from a phone ####
 
-If you use **Send to this TV** (the menu of the TV bar), the address, text or file you send from another device is delivered in two ways:
+The screen **Phone** (the phone button of the TV bar, of text fields and of the start screen) shows a QR code. A phone that scans it opens a page **served by the TV itself** in your home network; from it you type into the fields of the TV, fill a login form, and send addresses and files. **Nothing of it goes through the internet or through any server**: the phone and the TV talk to each other directly, and they must be on the same home network.
 
-- **Files** go directly between the devices over your local network (plain HTTP, not encrypted).
-- **Texts and addresses** pass through an online database and a web page that are **operated by the author of the original open-source project, not by InyfiTV**. They hold, for a few minutes, the name and local network addresses of your TV, a random inbox identifier and the messages sent to it; the TV deletes each message after it takes it. If you do not want this, do not open that screen.
+- **This connection is not encrypted** (plain HTTP inside your home network). What you type, including **passwords**, travels between the phone and the TV unencrypted, so another device on the same network that captures the traffic could read it. Use it only on a home network you trust. An encrypted companion app is planned.
+- The TV answers only devices of the local network, and only those that know the random key of the QR code (it changes when the app restarts or you choose **New link**); after many wrong keys it stops answering that device for a while.
+- The TV **does not save** what you type or the passwords you send, and does not write them to its logs. Files you send are saved in its downloads.
 
 #### Incognito mode ####
 
