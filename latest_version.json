@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta1",
-      "latestVersionCode": 1003,
+      "latestVersionName": "v1.1.0-beta2",
+      "latestVersionCode": 1004,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta1/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta2/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta1",
-      "latestVersionCode": 1003,
+      "latestVersionName": "v1.1.0-beta2",
+      "latestVersionCode": 1004,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta1/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta2/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1004,
+      "versionName": "v1.1.0-beta2",
+      "changes": "* Telefon jako klawiatura: kod QR łączy telefon z telewizorem w sieci domowej\n* Logowanie z telefonu: login i hasło wpisane na telefonie trafiają do formularza na telewizorze\n* Pasek: sześć przycisków zamiast jedenastu, karty tylko gdy jest ich więcej\n* Kafelki: przytrzymaj OK, aby zmienić nazwę, kolor, przesunąć albo usunąć\n* Oglądaj dalej: przypnij stronę z menu paska"
+    },
     {
       "versionCode": 1003,
       "versionName": "v1.1.0-beta1",
