@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.0.0",
-      "latestVersionCode": 1002,
+      "latestVersionName": "v1.1.0-beta1",
+      "latestVersionCode": 1003,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.0.0/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta1/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.0.0",
-      "latestVersionCode": 1002,
+      "latestVersionName": "v1.1.0-beta1",
+      "latestVersionCode": 1003,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.0.0/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta1/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1003,
+      "versionName": "v1.1.0-beta1",
+      "changes": "* Nowy wygląd: ciemny motyw i ekran startowy z kafelkami ulubionych\n* Nowe logo i ikony\n* Domyślne strony: Oglądaj Anime, Nasze Anime, YouTube\n* Na starcie bez paska przeglądarki; pasek otwiera MENU albo Wstecz"
+    },
     {
       "versionCode": 1002,
       "versionName": "v1.0.0",
