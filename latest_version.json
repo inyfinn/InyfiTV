@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta3",
-      "latestVersionCode": 1005,
+      "latestVersionName": "v1.1.0-beta4",
+      "latestVersionCode": 1006,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta3/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta4/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta3",
-      "latestVersionCode": 1005,
+      "latestVersionName": "v1.1.0-beta4",
+      "latestVersionCode": 1006,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta3/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta4/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1006,
+      "versionName": "v1.1.0-beta4",
+      "changes": "* Otwórz w odtwarzaczu InyfiTV: menu strony po przytrzymaniu OK, filmy wykrywane także z ruchu sieciowego\n* Kafelek YouTube znika także po aktualizacji; własne zakładki zostają\n* Dodawanie strony w nowym oknie z przyciskami telefonu\n* Odtwarzacz: napisy i ikony czytelne na jasnym obrazie\n* Kursor rysowany na osobnej warstwie\n* Naprawiony przycisk Sprawdź aktualizacje\n* Przycisk telefonu przy polach tekstowych: szukanie na stronie, pola w ustawieniach"
+    },
     {
       "versionCode": 1005,
       "versionName": "v1.1.0-beta3",
