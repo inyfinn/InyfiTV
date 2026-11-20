@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta9",
-      "latestVersionCode": 1011,
+      "latestVersionName": "v1.1.0-beta10",
+      "latestVersionCode": 1012,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta9/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta10/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta9",
-      "latestVersionCode": 1011,
+      "latestVersionName": "v1.1.0-beta10",
+      "latestVersionCode": 1012,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta9/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta10/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1012,
+      "versionName": "v1.1.0-beta10",
+      "changes": "* Oglądaj dalej: jedna karta na serię, z odcinkiem i paskiem postępu\n* Przytrzymaj OK na karcie: Oglądaj dalej, Następny odcinek, Otwórz stronę, Usuń\n* Następny odcinek z karty przeskakuje o jeden odcinek, nie o kilka\n* Miejsce w odcinku nie cofa się po zamknięciu odtwarzacza\n* Zwiastuny grające same w tle nie trafiają do Oglądaj dalej\n* Diagnostyka wideo po polsku, pierwsza w menu po nieudanym starcie\n* Licznik zablokowanych okien pokazuje prawdziwą liczbę\n* Ze strzałką w dół z kafelków wchodzi się do Oglądaj dalej"
+    },
     {
       "versionCode": 1011,
       "versionName": "v1.1.0-beta9",
