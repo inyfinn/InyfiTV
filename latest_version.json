@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta17",
-      "latestVersionCode": 1019,
+      "latestVersionName": "v1.1.0-beta18",
+      "latestVersionCode": 1020,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta17/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta18/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta17",
-      "latestVersionCode": 1019,
+      "latestVersionName": "v1.1.0-beta18",
+      "latestVersionCode": 1020,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta17/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta18/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1020,
+      "versionName": "v1.1.0-beta18",
+      "changes": "* Oglądaj dalej bierze też listy ze stron: wejdź zalogowany na stronę główną naszeanime albo ogladajanime, a ich Kontynuuj oglądanie pojawi się na starcie InyfiTV\n* Przenieś dane z innej przeglądarki: pierwsza pozycja w ustawieniach i karta na starcie; zakładki z pliku przez telefon\n* Telefon: film włączony przez Play sam otwiera się w odtwarzaczu InyfiTV, z zapasem w odtwarzaczu strony"
+    },
     {
       "versionCode": 1019,
       "versionName": "v1.1.0-beta17",
