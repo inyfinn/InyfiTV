@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta18",
-      "latestVersionCode": 1020,
+      "latestVersionName": "v1.1.0-beta19",
+      "latestVersionCode": 1021,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta18/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta19/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta18",
-      "latestVersionCode": 1020,
+      "latestVersionName": "v1.1.0-beta19",
+      "latestVersionCode": 1021,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta18/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta19/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1021,
+      "versionName": "v1.1.0-beta19",
+      "changes": "* YouTube w lewym pasku strony startowej\n* Okna z pytaniem mają od razu podświetlony przycisk\n* Po awarii aplikacja wraca tam, gdzie byłeś naprawdę\n* Ustawienia, Informacje: Oglądaj dalej ze stron, czyli co i kiedy odczytano z naszeanime i ogladajanime\n* Telefon: Oglądaj dalej zapisuje się samo, karty mają menu\n* Strzałki przy kursorze znikają na końcu strony; menu strony ma margines także z lewej"
+    },
     {
       "versionCode": 1020,
       "versionName": "v1.1.0-beta18",
