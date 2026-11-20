@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta34",
-      "latestVersionCode": 1036,
+      "latestVersionName": "v1.1.0-beta35",
+      "latestVersionCode": 1037,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta34/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta35/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta34",
-      "latestVersionCode": 1036,
+      "latestVersionName": "v1.1.0-beta35",
+      "latestVersionCode": 1037,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta34/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta35/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1037,
+      "versionName": "v1.1.0-beta35",
+      "changes": "* Po wejściu na odcinek i po zmianie odcinka widok sam ustawia się na odtwarzaczu, kursor na Play\n* Następny i poprzedni odcinek z odtwarzacza InyfiTV: aplikacja sama naciska odcinek na liście strony, Play i odtwarzacz\n* Przyciąganie kursora: 7 poziomów w Pilot i kursor, domyślnie tylko obrys; cienka biała ramka obejmuje całą kartę\n* Mysz i pilot wskazujący: bez kropki i bez przyciągania\n* Przełączniki w Strony anime działają dla naciskania Play, ustawiania widoku i listy odcinków"
+    },
     {
       "versionCode": 1036,
       "versionName": "v1.1.0-beta34",
