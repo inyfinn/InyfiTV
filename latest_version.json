@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta10",
-      "latestVersionCode": 1012,
+      "latestVersionName": "v1.1.0-beta11",
+      "latestVersionCode": 1013,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta10/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta11/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta10",
-      "latestVersionCode": 1012,
+      "latestVersionName": "v1.1.0-beta11",
+      "latestVersionCode": 1013,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta10/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta11/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1013,
+      "versionName": "v1.1.0-beta11",
+      "changes": "* Animacja startu: znak InyfiTV rysuje się, rozświetla i leci na swoje miejsce\n* Płynne przejścia: menu rośnie z kafelka, pasek i ekrany wjeżdżają\n* Ustawienia, Wygląd: Animacje pełne, ograniczone albo wyłączone\n* Koniec czarnego mignięcia przy starcie\n* Pasek od razu przyjmuje klawisze, gdy się wysuwa"
+    },
     {
       "versionCode": 1012,
       "versionName": "v1.1.0-beta10",
