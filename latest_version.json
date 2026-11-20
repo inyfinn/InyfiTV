@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta27",
-      "latestVersionCode": 1029,
+      "latestVersionName": "v1.1.0-beta28",
+      "latestVersionCode": 1030,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta27/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta28/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta27",
-      "latestVersionCode": 1029,
+      "latestVersionName": "v1.1.0-beta28",
+      "latestVersionCode": 1030,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta27/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta28/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1030,
+      "versionName": "v1.1.0-beta28",
+      "changes": "* Płynność całej aplikacji: poświata tła jest nieruchoma; strona startowa nie odmalowuje się w kółko pod Ustawieniami i menu\n* Tło ekranów aplikacji malowane raz, a nie w każdej klatce"
+    },
     {
       "versionCode": 1029,
       "versionName": "v1.1.0-beta27",
