@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta13",
-      "latestVersionCode": 1015,
+      "latestVersionName": "v1.1.0-beta14",
+      "latestVersionCode": 1016,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta13/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta14/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta13",
-      "latestVersionCode": 1015,
+      "latestVersionName": "v1.1.0-beta14",
+      "latestVersionCode": 1016,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta13/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta14/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1016,
+      "versionName": "v1.1.0-beta14",
+      "changes": "* Lupa na pasku: równe kroki co 10% od 50 do 200, strona zostaje w tym samym miejscu i przelicza się raz\n* Karuzele w bok: przytrzymaj lewo albo prawo w rzędzie, rząd się przewija, kursor zostaje\n* Tryb hybrydowy nie skacze do miejsc sprzed przewinięcia\n* Blokada reklam: skrypty przeciw wyskakującym oknom na shinden i w odtwarzaczach, baner Reklama na shinden usunięty\n* Naprawiony czarny ekran startowy po świeżej instalacji na systemie w innym języku\n* Zmiana języka nie zamyka ustawień"
+    },
     {
       "versionCode": 1015,
       "versionName": "v1.1.0-beta13",
