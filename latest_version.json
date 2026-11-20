@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta32",
-      "latestVersionCode": 1034,
+      "latestVersionName": "v1.1.0-beta33",
+      "latestVersionCode": 1035,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta32/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta33/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta32",
-      "latestVersionCode": 1034,
+      "latestVersionName": "v1.1.0-beta33",
+      "latestVersionCode": 1035,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta32/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta33/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1035,
+      "versionName": "v1.1.0-beta33",
+      "changes": "* Kursor dużo lżejszy: sprawdza tylko elementy obok siebie, nie całą stronę; pilnowanie okienek nie pracuje już bez przerwy\n* Ustawienia: nowa kategoria Odtwarzacz ze wszystkimi ustawieniami odtwarzacza w jednym miejscu\n* Jakość i prędkość, z jaką film startuje\n* Ustawienia: nowa kategoria Strony anime z przełącznikami automatyzacji i wyłącznikiem głównym"
+    },
     {
       "versionCode": 1034,
       "versionName": "v1.1.0-beta32",
