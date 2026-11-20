@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta24",
-      "latestVersionCode": 1026,
+      "latestVersionName": "v1.1.0-beta25",
+      "latestVersionCode": 1027,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta24/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta25/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta24",
-      "latestVersionCode": 1026,
+      "latestVersionName": "v1.1.0-beta25",
+      "latestVersionCode": 1027,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta24/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta25/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1027,
+      "versionName": "v1.1.0-beta25",
+      "changes": "* Przycisk odświeżania strony na pasku, obok startu; podczas wczytywania zatrzymuje\n* Menu strony: Otwórz w odtwarzaczu InyfiTV na pierwszym miejscu, diagnostyka na końcu\n* Przytrzymanie OK otwiera menu także wtedy, gdy kursor się schował\n* Lista filmów: film na górze z długością i jakością, krótkie klipy schowane\n* Kursor trafia w małe przyciski odtwarzacza strony i nie ucieka z niego\n* Karty Oglądaj dalej mówią, co zrobi OK: uruchom odcinek albo otwórz stronę serii; karta znika, gdy seria zniknie z listy w serwisie\n* Okno aktualizacji małe, z rozwijanym Co nowego\n* Odtwarzacz: Wstecz pokazuje pasek, drugie Wstecz wychodzi; informacje i ustawienia rozdzielone; dokładanie klatek z próbą zamiast czarnego ekranu i trybem Lekki"
+    },
     {
       "versionCode": 1026,
       "versionName": "v1.1.0-beta24",
