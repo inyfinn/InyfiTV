@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta22",
-      "latestVersionCode": 1024,
+      "latestVersionName": "v1.1.0-beta23",
+      "latestVersionCode": 1025,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta22/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta23/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta22",
-      "latestVersionCode": 1024,
+      "latestVersionName": "v1.1.0-beta23",
+      "latestVersionCode": 1025,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta22/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta23/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1025,
+      "versionName": "v1.1.0-beta23",
+      "changes": "* YouTube otwiera się w wersji telewizyjnej: sterowanie strzałkami, bez kursora\n* YouTube w wersji telewizyjnej bez pozycji sponsorowanych na starcie i bez reklamy przed filmem\n* Autoodtwarzanie ustawione dla jednej strony działa od razu, w obie strony\n* Ustawienia witryny: widok Telewizyjny"
+    },
     {
       "versionCode": 1024,
       "versionName": "v1.1.0-beta22",
