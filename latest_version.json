@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta12",
-      "latestVersionCode": 1014,
+      "latestVersionName": "v1.1.0-beta13",
+      "latestVersionCode": 1015,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta12/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta13/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta12",
-      "latestVersionCode": 1014,
+      "latestVersionName": "v1.1.0-beta13",
+      "latestVersionCode": 1015,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta12/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta13/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1015,
+      "versionName": "v1.1.0-beta13",
+      "changes": "* Przewijanie filmu przytrzymaniem lewo/prawo dużo szybsze: po sekundzie minuta filmu na sekundę, dalej jeszcze szybciej; skok po puszczeniu klawisza\n* Odtwarzacz: strona Płynność obrazu (klatki, odświeżanie, dekoder, zgubione klatki), opcje Dopasuj odświeżanie i Tunelowanie (obie wyłączone)\n* Telefon: dolny pasek z przyciskiem startu, kafelki Historia, Pobrane, Zakładki, Ustawienia, pełniejsze menu strony\n* Blokada reklam: podlisty uBlock i polskie, reguły przeciw stronom-oszustwom"
+    },
     {
       "versionCode": 1014,
       "versionName": "v1.1.0-beta12",
