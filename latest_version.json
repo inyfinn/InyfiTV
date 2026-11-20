@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta28",
-      "latestVersionCode": 1030,
+      "latestVersionName": "v1.1.0-beta29",
+      "latestVersionCode": 1031,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta28/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta29/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta28",
-      "latestVersionCode": 1030,
+      "latestVersionName": "v1.1.0-beta29",
+      "latestVersionCode": 1031,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta28/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta29/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1031,
+      "versionName": "v1.1.0-beta29",
+      "changes": "* Mniej pracy w tle na każdej stronie: skrypty wykrywania filmów nie chodzą już w kółko w każdej ramce\n* Otwiera się film, który sam uruchomiłeś albo wskazałeś, nigdy rekomendacja odtwarzacza strony\n* Odtwarzacz w ramce w ramce (vk i podobne) otwiera się sam; ustawienie Otwieraj wykryte filmy przestawione raz na Zawsze\n* Aplikacja rzadziej sama dotyka strony przy starcie odcinka: najwyżej dwa naciśnięcia, bez dodatkowych odczytów\n* Diagnostyka wideo mówi wprost, co wykryto, co wybrano i dlaczego"
+    },
     {
       "versionCode": 1030,
       "versionName": "v1.1.0-beta28",

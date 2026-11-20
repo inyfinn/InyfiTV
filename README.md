@@ -2,7 +2,7 @@
 
 InyfiTV to przeglądarka internetowa na Android TV, stworzona z myślą o wygodnym oglądaniu filmów i seriali oraz obsłudze za pomocą pilota.
 
-**[Pobierz InyfiTV 1.1.0-beta28 (APK)](https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta28/InyfiTV.apk)** · [Wszystkie wydania](https://github.com/inyfinn/InyfiTV/releases)
+**[Pobierz InyfiTV 1.1.0-beta29 (APK)](https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta29/InyfiTV.apk)** · [Wszystkie wydania](https://github.com/inyfinn/InyfiTV/releases)
 
 ![Ekran startowy InyfiTV](docs/start.png)
 
