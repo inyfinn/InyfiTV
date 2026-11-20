@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta14",
-      "latestVersionCode": 1016,
+      "latestVersionName": "v1.1.0-beta15",
+      "latestVersionCode": 1017,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta14/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta15/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta14",
-      "latestVersionCode": 1016,
+      "latestVersionName": "v1.1.0-beta15",
+      "latestVersionCode": 1017,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta14/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta15/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1017,
+      "versionName": "v1.1.0-beta15",
+      "changes": "* Film włączony przez Play sam otwiera się w odtwarzaczu InyfiTV; gdy się nie uda, gra dalej w odtwarzaczu strony od tej samej sekundy\n* Koniec uruchamiania poprzedniego odcinka zamiast właściwego\n* Lista filmów na stronie: dwa wiersze opisu, bez duplikatów, z oznaczeniem gra teraz\n* Telefon: odtwarzacz InyfiTV ze zwykłym sterowaniem dotykiem, Filmy na stronie w menu\n* Reguły InyfiTV w blokadzie reklam"
+    },
     {
       "versionCode": 1016,
       "versionName": "v1.1.0-beta14",
