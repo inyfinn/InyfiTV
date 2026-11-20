@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta21",
-      "latestVersionCode": 1023,
+      "latestVersionName": "v1.1.0-beta22",
+      "latestVersionCode": 1024,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta21/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta22/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta21",
-      "latestVersionCode": 1023,
+      "latestVersionName": "v1.1.0-beta22",
+      "latestVersionCode": 1024,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta21/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta22/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1024,
+      "versionName": "v1.1.0-beta22",
+      "changes": "* Zaloguj jako: pierwsza pozycja w menu strony (przytrzymaj OK) i pod przyciskiem telefonu na pasku\n* Hasło wpisywane z telefonu przez Klawiaturę jest szyfrowane\n* Płynność obrazu: liczba klatek filmu mierzona, gdy strumień jej nie podaje; trafniejsza rada przy dokładaniu klatek\n* Telefon: YouTube na stronie startowej; tablet: Zakładki w pasku"
+    },
     {
       "versionCode": 1023,
       "versionName": "v1.1.0-beta21",
