@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta29",
-      "latestVersionCode": 1031,
+      "latestVersionName": "v1.1.0-beta30",
+      "latestVersionCode": 1032,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta29/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta30/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta29",
-      "latestVersionCode": 1031,
+      "latestVersionName": "v1.1.0-beta30",
+      "latestVersionCode": 1032,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta29/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta30/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1032,
+      "versionName": "v1.1.0-beta30",
+      "changes": "* Kursor Hybrydowy tylko podświetla najbliższy przycisk; kursor rusza się wyłącznie pilotem, OK klika podświetlony element\n* Dużo mniej pracy przy ruchu kursora i przewijaniu: strona nie jest już przeszukiwana w każdej klatce\n* Przytrzymanie OK nad filmem: Odtwórz w odtwarzaczu InyfiTV albo Odtwórz w odtwarzaczu strony, dla tego filmu, od tej samej sekundy\n* Strona zasłonięta przez Ustawienia, Historię, Pobrane przestaje się rysować\n* Logowanie i zakładki: Udostępnij do InyfiTV z przeglądarki telefonu, Sesja wygasła pewniejsza, eksport plików schowany w zaawansowanych\n* Powiększanie małych obrazów lepszym filtrem: do włączenia w Płynność obrazu"
+    },
     {
       "versionCode": 1031,
       "versionName": "v1.1.0-beta29",
