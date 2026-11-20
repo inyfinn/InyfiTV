@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta20",
-      "latestVersionCode": 1022,
+      "latestVersionName": "v1.1.0-beta21",
+      "latestVersionCode": 1023,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta20/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta21/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta20",
-      "latestVersionCode": 1022,
+      "latestVersionName": "v1.1.0-beta21",
+      "latestVersionCode": 1023,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta20/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta21/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1023,
+      "versionName": "v1.1.0-beta21",
+      "changes": "* Hasła z innej przeglądarki: telefon czyta plik, wysyła zaszyfrowane tylko zaznaczone, telewizor trzyma je w zaszyfrowanym sejfie\n* Logowanie bez pisania: plakietka Zaloguj jako w rogu strony logowania albo jedno stuknięcie na telefonie\n* Ustawienia, Przenieś dane: lista zapisanych haseł z usuwaniem\n* Logowanie z telefonu jest szyfrowane; po aktualizacji zeskanuj kod QR ponownie\n* Zalogowanie nie przepada, gdy aplikacja zostanie nagle zamknięta\n* YouTube: linia w Diagnostyce wideo pokazuje, czy zostały reklamy\n* Telefon: ustawienia trybu oszczędnego, długie listy się przewijają"
+    },
     {
       "versionCode": 1022,
       "versionName": "v1.1.0-beta20",
