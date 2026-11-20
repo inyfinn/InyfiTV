@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta8",
-      "latestVersionCode": 1010,
+      "latestVersionName": "v1.1.0-beta9",
+      "latestVersionCode": 1011,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta8/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta9/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta8",
-      "latestVersionCode": 1010,
+      "latestVersionName": "v1.1.0-beta9",
+      "latestVersionCode": 1011,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta8/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta9/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1011,
+      "versionName": "v1.1.0-beta9",
+      "changes": "* Oglądaj dalej działa samo: zapamiętuje serię, odcinek i miejsce; po 90% proponuje następny odcinek\n* Karta Oglądaj dalej sama uruchamia film w odtwarzaczu InyfiTV; gdy się nie da, zostawia na stronie odcinka z komunikatem\n* W odtwarzaczu pod koniec: Następny odcinek (OK)\n* Dodaj stronę: historia pogrupowana po domenie, z wyszukiwaniem\n* Diagnostyka wideo w menu strony (przytrzymaj OK)\n* Powiększona strona wypełnia ekran od razu po załadowaniu"
+    },
     {
       "versionCode": 1010,
       "versionName": "v1.1.0-beta8",
