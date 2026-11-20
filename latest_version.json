@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta23",
-      "latestVersionCode": 1025,
+      "latestVersionName": "v1.1.0-beta24",
+      "latestVersionCode": 1026,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta23/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta24/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta23",
-      "latestVersionCode": 1025,
+      "latestVersionName": "v1.1.0-beta24",
+      "latestVersionCode": 1026,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta23/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta24/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1026,
+      "versionName": "v1.1.0-beta24",
+      "changes": "* Film z odtwarzacza vk i podobnych sam otwiera się w odtwarzaczu InyfiTV po naciśnięciu Play\n* Karta ze strony w Oglądaj dalej od razu uruchamia film\n* YouTube: Wstecz cofa najpierw w YouTube, pasek otwiera się dopiero na jego ekranie głównym; przytrzymaj Wstecz albo naciśnij Menu, żeby otworzyć pasek zawsze\n* Lista filmów pokazuje długość i jakość strumieni DASH"
+    },
     {
       "versionCode": 1025,
       "versionName": "v1.1.0-beta23",
