@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta30",
-      "latestVersionCode": 1032,
+      "latestVersionName": "v1.1.0-beta31",
+      "latestVersionCode": 1033,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta30/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta31/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta30",
-      "latestVersionCode": 1032,
+      "latestVersionName": "v1.1.0-beta31",
+      "latestVersionCode": 1033,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta30/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta31/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1033,
+      "versionName": "v1.1.0-beta31",
+      "changes": "* Aplikacja nie pobiera już sama stron ani ikon serwisów: koniec dodatkowych zapytań, przez które serwis mógł brać przeglądarkę za bota\n* Udostępnianie z telefonu, gdy telewizor nie odpowiada: Otwórz tutaj albo Spróbuj ponownie"
+    },
     {
       "versionCode": 1032,
       "versionName": "v1.1.0-beta30",
