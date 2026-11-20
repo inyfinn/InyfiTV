@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta26",
-      "latestVersionCode": 1028,
+      "latestVersionName": "v1.1.0-beta27",
+      "latestVersionCode": 1029,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta26/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta27/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta26",
-      "latestVersionCode": 1028,
+      "latestVersionName": "v1.1.0-beta27",
+      "latestVersionCode": 1029,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta26/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta27/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1029,
+      "versionName": "v1.1.0-beta27",
+      "changes": "* Strona startowa: zębatka Ustawień z podpisem, stałe podpisy pozycji po lewej, nic nie chowa się pod kartami, pasek i wyszukiwarka stoją przy przewijaniu\n* Aktualizacja widoczna od razu: pigułka obok zegara i pierwszy wiersz w Ustawieniach\n* Odtwarzacz InyfiTV usypia stronę przy starcie: nie grają dwa odtwarzacze naraz; po zamknięciu strona zostaje na pauzie\n* Odtwarzacz: Góra pokazuje schowany pasek, Dół go chowa"
+    },
     {
       "versionCode": 1028,
       "versionName": "v1.1.0-beta26",
