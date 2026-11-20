@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta11",
-      "latestVersionCode": 1013,
+      "latestVersionName": "v1.1.0-beta12",
+      "latestVersionCode": 1014,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta11/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta12/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta11",
-      "latestVersionCode": 1013,
+      "latestVersionName": "v1.1.0-beta12",
+      "latestVersionCode": 1014,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta11/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta12/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1014,
+      "versionName": "v1.1.0-beta12",
+      "changes": "* Tryb oszczędny: gdy film na stronie się tnie, filmy puszczane przez stronę idą w niższej jakości, a niemy zwiastun w tle zostaje zatrzymany; filmu włączonego przez Ciebie nie rusza\n* Polski od pierwszego startu także na Androidzie 13 i nowszych\n* Karty na pasku zawsze mają tytuł\n* Przejście ze startu na stronę i z powrotem bez białego mignięcia\n* Przytrzymaj OK na zakładce; Duplikuj kartę w menu karty\n* Menu paska mieści najdłuższy wiersz\n* Ustawienia: wybrana opcja wygląda inaczej niż podświetlona, nazwy klawiszy po polsku\n* Dodaj stronę: Enter przechodzi z adresu do nazwy"
+    },
     {
       "versionCode": 1013,
       "versionName": "v1.1.0-beta11",
