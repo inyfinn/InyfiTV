@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta33",
-      "latestVersionCode": 1035,
+      "latestVersionName": "v1.1.0-beta34",
+      "latestVersionCode": 1036,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta33/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta34/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta33",
-      "latestVersionCode": 1035,
+      "latestVersionName": "v1.1.0-beta34",
+      "latestVersionCode": 1036,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta33/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta34/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1036,
+      "versionName": "v1.1.0-beta34",
+      "changes": "* Film z odtwarzacza vk otwiera się sam w odtwarzaczu InyfiTV po naciśnięciu Play: aplikacja widzi teraz film ukryty w odtwarzaczu vk i jego strumień\n* Diagnostyka wideo zaczyna się od jednego zdania: co zrobiono i dlaczego\n* Oglądaj dalej: usunięcie karty działa od razu; przyciski Odśwież przy nagłówku; plakaty pobierane raz\n* Ustawienia: Prawo wchodzi w wiersz; powrót do kategorii nie buduje jej od nowa"
+    },
     {
       "versionCode": 1035,
       "versionName": "v1.1.0-beta33",
