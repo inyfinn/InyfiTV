@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta15",
-      "latestVersionCode": 1017,
+      "latestVersionName": "v1.1.0-beta16",
+      "latestVersionCode": 1018,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta15/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta16/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta15",
-      "latestVersionCode": 1017,
+      "latestVersionName": "v1.1.0-beta16",
+      "latestVersionCode": 1018,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta15/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta16/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1018,
+      "versionName": "v1.1.0-beta16",
+      "changes": "* Kursor łapie pole przewijane tylko wtedy, gdy w nim stoi; w przelocie je mija i przewija stronę\n* Małe strzałki przy kursorze, gdy przewija pole albo stronę\n* Tryb hybrydowy przyciąga tylko z bliska i nigdy do dużych pól, np. całego odtwarzacza\n* Karuzele ze strzałkami (naszeanime): przytrzymaj lewo albo prawo w rzędzie\n* Tło z poświatą dopasowane do ekranu, delikatnie animowane\n* Blokada reklam: atrapy skryptów reklam, żeby odtwarzacze ruszały; więcej reguł ukrywania\n* Na telefonie bez przycisków łączenia z telefonem"
+    },
     {
       "versionCode": 1017,
       "versionName": "v1.1.0-beta15",
