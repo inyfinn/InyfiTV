@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta25",
-      "latestVersionCode": 1027,
+      "latestVersionName": "v1.1.0-beta26",
+      "latestVersionCode": 1028,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta25/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta26/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta25",
-      "latestVersionCode": 1027,
+      "latestVersionName": "v1.1.0-beta26",
+      "latestVersionCode": 1028,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta25/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta26/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1028,
+      "versionName": "v1.1.0-beta26",
+      "changes": "* Odtwarzacz: strzałka w dół chowa sterowanie i niczego nie otwiera; ustawienia wideo z ikony albo klawiszem Menu\n* Start odcinka z karty Oglądaj dalej: aplikacja sama naciska odtwarzacz strony, czeka z odliczaniem i nigdy nie otwiera krótkiego klipu zamiast odcinka\n* Zaloguj na telefonie: InyfiTV na telefonie skanuje kod z telewizora, logujesz się na telefonie, telewizor loguje się sam; bez eksportu plików\n* Zapisać hasło? po zalogowaniu; Sesja wygasła: jedno OK loguje ponownie\n* Płynność obrazu: ustawienia na górze, wiersz Uruchom film ponownie, czytelna diagnostyka"
+    },
     {
       "versionCode": 1027,
       "versionName": "v1.1.0-beta25",
