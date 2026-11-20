@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta31",
-      "latestVersionCode": 1033,
+      "latestVersionName": "v1.1.0-beta32",
+      "latestVersionCode": 1034,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta31/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta32/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta31",
-      "latestVersionCode": 1033,
+      "latestVersionName": "v1.1.0-beta32",
+      "latestVersionCode": 1034,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta31/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta32/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1034,
+      "versionName": "v1.1.0-beta32",
+      "changes": "* Przewijanie przytrzymaniem: domyślnie 90 s na sekundę; do wyboru 30, 60, 90, 120, 150, 180, 210, 240\n* Płynność obrazu: każdy wiersz ma opis, przytrzymanie OK pokazuje wyjaśnienie, wiersz pod fokusem nie ucieka, szczegóły na osobnej stronie\n* Ustawienia odtwarzacza: Prawo wchodzi w wiersz, Lewo cofa\n* Wersja aplikacji widoczna przy starcie i na stronie startowej; większy odstęp nad Oglądaj dalej\n* Tryb lekki w Ustawienia, Zaawansowane: zatrzymuje niekończące się animacje stron i odchudza blokowanie reklam"
+    },
     {
       "versionCode": 1033,
       "versionName": "v1.1.0-beta31",
