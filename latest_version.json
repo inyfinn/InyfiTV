@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta19",
-      "latestVersionCode": 1021,
+      "latestVersionName": "v1.1.0-beta20",
+      "latestVersionCode": 1022,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta19/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta20/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta19",
-      "latestVersionCode": 1021,
+      "latestVersionName": "v1.1.0-beta20",
+      "latestVersionCode": 1022,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta19/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta20/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1022,
+      "versionName": "v1.1.0-beta20",
+      "changes": "* Dokładanie klatek (eksperymentalne): odtwarzacz, Ustawienia wideo, Płynność obrazu; do 60 klatek na sekundę, wyłącza się samo, gdy telewizor nie nadąża\n* Strzałka w dół i klawisz Menu otwierają Ustawienia wideo od razu\n* Ikony odtwarzacza widoczne także na jasnym obrazie"
+    },
     {
       "versionCode": 1021,
       "versionName": "v1.1.0-beta19",
