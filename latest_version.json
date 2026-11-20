@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta16",
-      "latestVersionCode": 1018,
+      "latestVersionName": "v1.1.0-beta17",
+      "latestVersionCode": 1019,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta16/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta17/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta16",
-      "latestVersionCode": 1018,
+      "latestVersionName": "v1.1.0-beta17",
+      "latestVersionCode": 1019,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta16/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta17/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1019,
+      "versionName": "v1.1.0-beta17",
+      "changes": "* Przewijanie filmu do ustawienia: skok przy naciśnięciu, prędkość przy przytrzymaniu w 6 stopniach, dodatkowe przyspieszenie domyślnie wyłączone\n* Te same ustawienia w odtwarzaczu (strona Przewijanie) i w ustawieniach przeglądarki; opisy z liczbami\n* Dymek przewijania pokazuje bieżącą prędkość\n* Blokada reklam: skrypty dla YouTube z list uBlock"
+    },
     {
       "versionCode": 1018,
       "versionName": "v1.1.0-beta16",
