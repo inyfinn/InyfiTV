@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.1",
-      "latestVersionCode": 1039,
+      "latestVersionName": "v2.0.2",
+      "latestVersionCode": 1040,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.1/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.2/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.1",
-      "latestVersionCode": 1039,
+      "latestVersionName": "v2.0.2",
+      "latestVersionCode": 1040,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.1/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.2/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1040,
+      "versionName": "v2.0.2",
+      "changes": "* Odtwarzacz: pod przyciskami Poprzedni i Następny stoi numer odcinka\n* Tryb bezpośredniej nawigacji: przytrzymane OK wraca do kursora\n* Pole wyszukiwania na stronie startowej: klawiatura otwiera się dopiero po OK\n* Po otwarciu filmu komunikat pokazuje tylko rozdzielczość i klatki na sekundę\n* Ustawienia: Lewo zamyka rozwiniętą listę\n* Lista „Oglądaj dalej” nie znika po jednym pustym odczycie strony"
+    },
     {
       "versionCode": 1039,
       "versionName": "v2.0.1",
