@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.7",
-      "latestVersionCode": 1045,
+      "latestVersionName": "v2.0.8",
+      "latestVersionCode": 1046,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.7/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.8/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.7",
-      "latestVersionCode": 1045,
+      "latestVersionName": "v2.0.8",
+      "latestVersionCode": 1046,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.7/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.8/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1046,
+      "versionName": "v2.0.8",
+      "changes": "* Poprawka zamykania się aplikacji po wejściu na naszeanime i inne strony z weryfikacją Cloudflare (telewizor i telefon)"
+    },
     {
       "versionCode": 1045,
       "versionName": "v2.0.7",
