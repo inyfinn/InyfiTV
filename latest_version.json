@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.8",
-      "latestVersionCode": 1046,
+      "latestVersionName": "v2.0.9",
+      "latestVersionCode": 1047,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.8/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.9/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.8",
-      "latestVersionCode": 1046,
+      "latestVersionName": "v2.0.9",
+      "latestVersionCode": 1047,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.8/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.9/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1047,
+      "versionName": "v2.0.9",
+      "changes": "* Synchronizacja telefonu z telewizorem w obie strony: ulubione, zakładki, hasła (zaszyfrowane), wybrane ustawienia; sama po połączeniu i przycisk „Synchronizuj teraz”\n* Logowanie bez wpisywania: na telefonie „Zaloguj jako…” z odciskiem palca, na telewizorze z menu; lista „Zapisane hasła”\n* Telefon: „Zapisać hasło?” po zalogowaniu; „Przenieś logowanie tej strony na telewizor”\n* Przycisk Start nie wraca już na poprzednią stronę\n* Powiększenie: liczba na ekranie zgadza się ze stroną; ogladajanime w układzie jak na komputerze\n* Strona telefonu z kodu QR: jedna karta „Otwórz w aplikacji / Pobierz”, do zamknięcia\n* Po kliknięciu „Zaloguj” na stronie pojawia się „Zaloguj z telefonu”"
+    },
     {
       "versionCode": 1046,
       "versionName": "v2.0.8",
