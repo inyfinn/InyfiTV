@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.4",
-      "latestVersionCode": 1042,
+      "latestVersionName": "v2.0.5",
+      "latestVersionCode": 1043,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.4/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.5/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.4",
-      "latestVersionCode": 1042,
+      "latestVersionName": "v2.0.5",
+      "latestVersionCode": 1043,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.4/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.5/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1043,
+      "versionName": "v2.0.5",
+      "changes": "* Pierwsze uruchomienie na telewizorze: „Wypróbuj sterowanie” z wyborem siły przyciągania kursora\n* Kursor nad polem, które da się przewijać, pokazuje strzałki kierunku przewijania\n* Kursor nie przeciąga zawartości strony tam, gdzie strona się nie przewija"
+    },
     {
       "versionCode": 1042,
       "versionName": "v2.0.4",
