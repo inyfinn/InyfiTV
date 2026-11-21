@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.3",
-      "latestVersionCode": 1041,
+      "latestVersionName": "v2.0.4",
+      "latestVersionCode": 1042,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.3/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.4/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.3",
-      "latestVersionCode": 1041,
+      "latestVersionName": "v2.0.4",
+      "latestVersionCode": 1042,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.3/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.4/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1042,
+      "versionName": "v2.0.4",
+      "changes": "* Oglądaj dalej: seria trafia na listę dopiero po obejrzeniu ok. 30% odcinka\n* Film z karty „Oglądaj dalej” bez obrazu przez 5 sekund wraca do odtwarzacza strony\n* Podpowiedź logowania: w menu po przytrzymaniu OK można ją zwinąć, zamknąć, wyłączyć dla strony albo na 3 dni\n* Ustawienia: osobna pozycja „Przenieś dane”; pytanie o przeniesienie danych przy pierwszym uruchomieniu\n* Ustawienia → Wygląd: „Animowane tło” (domyślnie wyłączone)"
+    },
     {
       "versionCode": 1041,
       "versionName": "v2.0.3",
