@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.0",
-      "latestVersionCode": 1038,
+      "latestVersionName": "v2.0.1",
+      "latestVersionCode": 1039,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.0/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.1/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.0",
-      "latestVersionCode": 1038,
+      "latestVersionName": "v2.0.1",
+      "latestVersionCode": 1039,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.0/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.1/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1039,
+      "versionName": "v2.0.1",
+      "changes": "* Przytrzymane OK nad filmem: zawsze „Odtwórz w odtwarzaczu InyfiTV” i „Odtwórz w odtwarzaczu strony”; ta druga gra w stronie, dopóki nie wybierzesz InyfiTV, nie zmienisz odcinka albo nie odświeżysz; „Diagnostyka” na dole\n* Narzędzia kursora: u góry Przewijanie, na dole Odśwież, po bokach powiększenie, w środku tryb strzałek\n* Odśwież bez filtrów: przytrzymaj OK na Odśwież albo wybierz z menu strony; filtry wracają po przejściu na inną stronę\n* Strona nie ładuje się 10 sekund: podpowiedź, jak odświeżyć ją bez filtrów"
+    },
     {
       "versionCode": 1038,
       "versionName": "v2.0.0",
