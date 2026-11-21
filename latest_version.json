@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v1.1.0-beta35",
-      "latestVersionCode": 1037,
+      "latestVersionName": "v2.0.0",
+      "latestVersionCode": 1038,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta35/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.0/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v1.1.0-beta35",
-      "latestVersionCode": 1037,
+      "latestVersionName": "v2.0.0",
+      "latestVersionCode": 1038,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v1.1.0-beta35/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.0/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1038,
+      "versionName": "v2.0.0",
+      "changes": "* Pierwsza pełna wersja (koniec bet)\n* Strony z weryfikacją Cloudflare (np. naszeanime) i strony logowania ładują się czyste: bez blokowania reklam i bez kodu aplikacji; filtry wracają same\n* Okno „Gdzie się zalogować?”: czytelny nagłówek, „Z otwartych kart”, „Inna strona…”; logowanie z telefonu zawsze ma wyjście (Spróbuj jeszcze raz, Poczekaj, Zaloguj na telewizorze)\n* Plik CSV z hasłami da się wybrać na telefonie\n* Na telefonie nie ma już opcji tylko dla telewizora\n* Telefon i telewizor z różnymi wersjami aplikacji łączą się albo mówią, co zaktualizować\n* Przyciski w oknach dalej od dolnej krawędzi"
+    },
     {
       "versionCode": 1037,
       "versionName": "v1.1.0-beta35",
