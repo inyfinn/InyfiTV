@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.5",
-      "latestVersionCode": 1043,
+      "latestVersionName": "v2.0.6",
+      "latestVersionCode": 1044,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.5/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.6/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.5",
-      "latestVersionCode": 1043,
+      "latestVersionName": "v2.0.6",
+      "latestVersionCode": 1044,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.5/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.6/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1044,
+      "versionName": "v2.0.6",
+      "changes": "* Telefon: pociągnij stronę w dół na samej górze, aby ją odświeżyć (Ustawienia → Wygląd)\n* Telefon: ekran „Połączenie z telewizorem” pokazuje telewizor, jego wersję i co przeniesiono; przyciski „Wyślij teraz” dla haseł, zakładek i ustawień\n* Po pierwszym połączeniu pytanie o przeniesienie haseł i zakładek na telewizor\n* Telefon pamięta loginy wysłane na telewizor (zaszyfrowane) i może wysłać je na kolejny\n* Odtwarzacz na telefonie: dwukrotne stuknięcie przewija o 10 sekund\n* Strona telefonu z kodu QR: przycisk „Pobierz InyfiTV na telefon”"
+    },
     {
       "versionCode": 1043,
       "versionName": "v2.0.5",
