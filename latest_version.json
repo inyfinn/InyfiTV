@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.9",
-      "latestVersionCode": 1047,
+      "latestVersionName": "v2.0.10",
+      "latestVersionCode": 1048,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.9/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.10/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.9",
-      "latestVersionCode": 1047,
+      "latestVersionName": "v2.0.10",
+      "latestVersionCode": 1048,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.9/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.10/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1048,
+      "versionName": "v2.0.10",
+      "changes": "* Blokada reklam działa na ogladajanime.pl: wcześniej skrypt Cloudflare ze strony wyłączał wszystkie filtry i nasz odtwarzacz na całej witrynie\n* Filtry reklam działają od pierwszego wczytania strony, także zaraz po uruchomieniu aplikacji\n* Pomijanie openingu i endingu: przycisk 2 s przed openingiem, widoczny ok. 28 s; ending tylko do końca endingu; tryby Pytaj/Zawsze/Nigdy, ręczne oznaczanie\n* Telefon: logowanie przez aplikację Discord\n* Telefon: „Wyślij na telewizor” (DLNA, LG/Samsung i telewizor z InyfiTV)\n* naszeanime: film odcinka przechodzi do odtwarzacza InyfiTV, Poprzedni/Następny po numerach odcinków\n* Blokada reklam spolecznosci.net i polskich sieci reklam pełnoekranowych"
+    },
     {
       "versionCode": 1047,
       "versionName": "v2.0.9",
