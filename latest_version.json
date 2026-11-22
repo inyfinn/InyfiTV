@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.10",
-      "latestVersionCode": 1048,
+      "latestVersionName": "v2.0.11",
+      "latestVersionCode": 1049,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.10/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.11/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.10",
-      "latestVersionCode": 1048,
+      "latestVersionName": "v2.0.11",
+      "latestVersionCode": 1049,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.10/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.11/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1049,
+      "versionName": "v2.0.11",
+      "changes": "* ogladajanime.pl: po Play strona nie przeładowuje się już „na czysto”, więc filtry reklam, powiększenie, kursor i wykrywanie filmów działają; nasz odtwarzacz otwiera się po jednym OK na obrazku Play\n* Następny odcinek z odtwarzacza InyfiTV naciska właściwy przycisk strony\n* naszeanime.pl otwiera się z kafelka zamiast wracać na ekran startowy\n* Automatyczna „czysta strona” wyłączona; przełącznik w Ustawienia > Zaawansowane (tylko naszeanime i shinden)\n* Pasek powiększenia pokazuje tylko powiększenie, które strona naprawdę dostała\n* Logowanie z telefonu: dymek z kodem QR w wolnym rogu ekranu, znika po połączeniu telefonu, Wstecz go zamyka; Enter działa także w oknie logowania bez formularza; klawiatura TV chowa się po wpisaniu hasła z telefonu"
+    },
     {
       "versionCode": 1048,
       "versionName": "v2.0.10",
