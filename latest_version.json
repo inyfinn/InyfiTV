@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.11",
-      "latestVersionCode": 1049,
+      "latestVersionName": "v2.0.12",
+      "latestVersionCode": 1050,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.11/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.12/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.11",
-      "latestVersionCode": 1049,
+      "latestVersionName": "v2.0.12",
+      "latestVersionCode": 1050,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.11/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.12/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1050,
+      "versionName": "v2.0.12",
+      "changes": "* Filtry i funkcje przeglądarki działają zawsze, na każdej stronie. Jedyny wyjątek: strona weryfikacji Cloudflare na naszeanime.pl otwiera się bez filtrów, po weryfikacji wszystko wraca\n* Strony logowania nie otwierają się już bez skryptów, więc klawiatura z telefonu na nich działa\n* Poprzedni odcinek z odtwarzacza InyfiTV gra (wcześniej czarny ekran na 00:00)\n* ogladajanime.pl: usunięta sztuczna szerokość układu; strona wygląda tak, jak sama decyduje w wybranym widoku witryny\n* Przytrzymanie Odśwież nadal przeładowuje stronę bez filtrów"
+    },
     {
       "versionCode": 1049,
       "versionName": "v2.0.11",
