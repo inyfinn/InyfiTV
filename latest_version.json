@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.14",
-      "latestVersionCode": 1052,
+      "latestVersionName": "v2.0.15",
+      "latestVersionCode": 1053,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.15/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.14",
-      "latestVersionCode": 1052,
+      "latestVersionName": "v2.0.15",
+      "latestVersionCode": 1053,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.15/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1053,
+      "versionName": "v2.0.15",
+      "changes": "* Widok witryny „Komputer” działa jak monitor 1080p: strona dostaje 1920 px szerokości, przy powiększeniu 150% zostaje układ komputerowy (np. ogladajanime.pl); 100% to mniejszy tekst, jak na monitorze\n* Dymek „Zaloguj telefonem” pokazuje kod QR zawsze przy formularzu logowania, także gdy telefon jest już połączony\n* Menu telefonu: grupa „Telewizor” bez podwójnych kresek\n* Diagnostyka wideo pokazuje widok strony i podpis przeglądarki; dziennik weryfikacji Cloudflare zapisuje wersję silnika i podpis\n* Na stronie weryfikacji Cloudflare aplikacja nie uruchamia swoich skryptów odcinków (wersja z silnikiem Firefoksa wpadała przez nie w pętlę)"
+    },
     {
       "versionCode": 1052,
       "versionName": "v2.0.14",
