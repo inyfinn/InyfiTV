@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.12",
-      "latestVersionCode": 1050,
+      "latestVersionName": "v2.0.13",
+      "latestVersionCode": 1051,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.12/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.13/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.12",
-      "latestVersionCode": 1050,
+      "latestVersionName": "v2.0.13",
+      "latestVersionCode": 1051,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.12/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.13/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1051,
+      "versionName": "v2.0.13",
+      "changes": "* Następny i Poprzedni odcinek z odtwarzacza InyfiTV otwierają odcinek bez dodatkowego OK; czarne miejsce playera jest przeładowywane raz samo\n* Ten sam film w kilku jakościach to jeden film; odtwarzacz nie zamyka się i nie otwiera sam od spóźnionych zdarzeń; po Wstecz nic nie klika środka playera strony (reklamy)\n* Odtwarzacz: równe ikony, „Źródło” na pasku (motyw w Ustawieniach wideo), wszystkie komunikaty jako mała notka w prawym dolnym rogu, jedna i w miejscu; bez napisu „Mapuję odcinek”\n* Pasek: Wstecz i Odśwież go zamykają, strzałki chodzą w kółko, góra = Home; menu ⋮ i ustawienia w rozwijanych grupach\n* Logowanie z telefonu: QR na telewizorze, logowanie w aplikacji na telefonie przechodzi na telewizor samo; telefon pamięta kilka telewizorów; „Uzupełnij na projektorze” z przyciskiem Następne pole; klawiatura telewizora chowa się po wpisaniu z telefonu"
+    },
     {
       "versionCode": 1050,
       "versionName": "v2.0.12",
