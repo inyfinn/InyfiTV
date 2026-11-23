@@ -2,7 +2,7 @@
 
 InyfiTV to przeglądarka internetowa na Android TV, stworzona z myślą o wygodnym oglądaniu filmów i seriali oraz obsłudze za pomocą pilota.
 
-**[Pobierz InyfiTV 2.0.10 (APK)](https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk)** · [Wszystkie wydania](https://github.com/inyfinn/InyfiTV/releases)
+**[Pobierz InyfiTV 2.0.14 (APK)](https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk)** · [Wszystkie wydania](https://github.com/inyfinn/InyfiTV/releases)
 
 ![Ekran startowy InyfiTV](docs/start.png)
 
@@ -44,6 +44,8 @@ Nie musisz wpisywać długich adresów ani danych logowania za pomocą pilota.
 3. Zeskanuj wyświetlony kod QR.
 4. Korzystaj z klawiatury telefonu, przesyłaj linki lub uzupełniaj dane logowania.
 
+Gdy na telewizorze pojawi się formularz logowania, w prawym dolnym rogu wyświetla się dymek z kodem QR. Zeskanuj go aplikacją InyfiTV na telefonie i zaloguj się tam: telewizor zaloguje się sam. Jeśli jesteś już zalogowany na telefonie, wybierz „Przenieś logowanie tej strony na telewizor”. Telefon pamięta kilka telewizorów naraz.
+
 ![Panel sterowania na telefonie](docs/telefon.png)
 
 Połączenie nie wymaga zewnętrznego serwera ani instalowania dodatkowej aplikacji na telefonie.
@@ -52,7 +54,7 @@ Połączenie nie wymaga zewnętrznego serwera ani instalowania dodatkowej aplika
 
 ## Odtwarzacz
 
-Motyw „Krawędź”: cienki pasek przy dolnej krawędzi, bez przyciemniania obrazu. Dostępne są też motywy „Cień” i „Kapsuła”.
+Filmy ze stron otwierają się we własnym odtwarzaczu InyfiTV, z przyciskami poprzedniego i następnego odcinka oraz wyborem źródła („Źródło”). Opening i ending są rozpoznawane po dźwięku z wyprzedzeniem, a przycisk „Pomiń opening” pojawia się przed ich początkiem. Motyw odtwarzacza („Krawędź”, „Cień”, „Kapsuła”) wybierasz w ustawieniach wideo.
 
 ![Odtwarzacz InyfiTV](docs/odtwarzacz.png)
 
@@ -70,9 +72,9 @@ Kolejne aktualizacje aplikacja pobiera samodzielnie i prosi o potwierdzenie inst
 
 ## W przygotowaniu
 
-- Następny i poprzedni odcinek w odtwarzaczu.
-- Automatyczne „Oglądaj dalej”.
-- Tryb oszczędny dla stron odtwarzających filmy w tle.
+- Następny odcinek przygotowywany w tle przed końcem bieżącego.
+- Widok „Komputer” jak na monitorze 1080p.
+- Lepsze działanie stron chronionych przez Cloudflare (np. naszeanime.pl).
 
 ## Status projektu
 
