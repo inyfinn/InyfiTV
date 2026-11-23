@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.13",
-      "latestVersionCode": 1051,
+      "latestVersionName": "v2.0.14",
+      "latestVersionCode": 1052,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.13/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.13",
-      "latestVersionCode": 1051,
+      "latestVersionName": "v2.0.14",
+      "latestVersionCode": 1052,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.13/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.14/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1052,
+      "versionName": "v2.0.14",
+      "changes": "* Odtwarzacz InyfiTV nie zamyka się sam, gdy film długo się wczytuje: czeka do 45 s i pokazuje „Ładuję film… N s”\n* Następny odcinek z ok.ru otwiera się w 1080p zamiast 144p\n* Ikona „Źródło” wraca na pasek odtwarzacza (lista „Zmień player” strony jest czytana także wtedy, gdy strona wypełni ją później)\n* Pomijanie openingu: dźwięk początku i końca odcinka jest analizowany w tle z wyprzedzeniem (najmniejsza jakość pliku, najwyżej 400 KB/s, nic dla filmów ponad godzinę), przycisk „Pomiń opening” pojawia się przed openingiem; w ustawieniach wideo „Przerwij rozpoznawanie openingu”\n* naszeanime.pl otwiera się domyślnie w widoku Mobilnym z prawdziwym podpisem przeglądarki (próba przejścia weryfikacji Cloudflare); widok Tablet można wybrać w ustawieniach witryny\n* Dymek „Zaloguj telefonem” z kodem QR pojawia się przy każdym widocznym formularzu logowania, także w okienku otwieranym kliknięciem"
+    },
     {
       "versionCode": 1051,
       "versionName": "v2.0.13",
