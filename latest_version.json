@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.15",
-      "latestVersionCode": 1053,
+      "latestVersionName": "v2.0.16",
+      "latestVersionCode": 1054,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.15/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.16/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.15",
-      "latestVersionCode": 1053,
+      "latestVersionName": "v2.0.16",
+      "latestVersionCode": 1054,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.15/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.16/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1054,
+      "versionName": "v2.0.16",
+      "changes": "* „Przenieś logowanie na telewizor”: telewizor przeładowuje stronę dopiero po zapisaniu logowania (wcześniej czasem za wcześnie i zostawał niezalogowany)\n* Telefon zgłasza sukces tylko wtedy, gdy telewizor potwierdzi zapis; inaczej „Telewizor nie przyjął logowania, spróbuj jeszcze raz.”"
+    },
     {
       "versionCode": 1053,
       "versionName": "v2.0.15",
