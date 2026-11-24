@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.17",
-      "latestVersionCode": 1055,
+      "latestVersionName": "v2.0.18",
+      "latestVersionCode": 1056,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.17/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.18/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.17",
-      "latestVersionCode": 1055,
+      "latestVersionName": "v2.0.18",
+      "latestVersionCode": 1056,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.17/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.18/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1056,
+      "versionName": "v2.0.18",
+      "changes": "* „Zaloguj się na telewizorze”: telewizor sam otwiera stronę, okno logowania, wpisuje zapisane hasło i wysyła; telefon pokazuje wynik (zalogowano / strona odrzuciła hasło / nie znaleziono okna logowania)\n* Gdy telewizor nie ma hasła, telefon wysyła swoje; gdy nie ma go nigdzie, telefon pyta o nie\n* Telefon ze starymi połączeniami nie jest już blokowany przez telewizor („Brak połączenia”, „Sprawdzam telewizor…”)\n* Strona telefonu: kafel „Otwórz w aplikacji” zawsze w prawym górnym rogu; kod QR z dymka logowania loguje sam\n* Komunikaty logowania na telefonie w pełnym tekście, z „Spróbuj ponownie”"
+    },
     {
       "versionCode": 1055,
       "versionName": "v2.0.17",
