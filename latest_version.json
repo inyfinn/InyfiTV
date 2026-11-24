@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.20",
-      "latestVersionCode": 1058,
+      "latestVersionName": "v2.0.21",
+      "latestVersionCode": 1059,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.20/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.21/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.20",
-      "latestVersionCode": 1058,
+      "latestVersionName": "v2.0.21",
+      "latestVersionCode": 1059,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.20/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.21/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1059,
+      "versionName": "v2.0.21",
+      "changes": "* Kafle stron na stronie startowej z obrazem strony (po pierwszej wizycie); w Ustawieniach → Wygląd „Kafle stron: Obrazy / Litery”\n* Nowy kafel wbijam.pl; Twoje kafle i ich kolejność zostają"
+    },
     {
       "versionCode": 1058,
       "versionName": "v2.0.20",
