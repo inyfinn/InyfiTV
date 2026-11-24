@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.19",
-      "latestVersionCode": 1057,
+      "latestVersionName": "v2.0.20",
+      "latestVersionCode": 1058,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.19/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.20/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.19",
-      "latestVersionCode": 1057,
+      "latestVersionName": "v2.0.20",
+      "latestVersionCode": 1058,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.19/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.20/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1058,
+      "versionName": "v2.0.20",
+      "changes": "* Negatyw: źródła oznaczone przez ogladajanime jako odwrócone grają w normalnych kolorach; wybór „Odwróć kolory” pamięta się dla źródła\n* Odtwarzacz: ikona Źródła w lewym dolnym rogu i wiersz „Źródło” w ustawieniach (gdy strona podała listę)\n* Pilot Play/Pauza na stronie odcinka startuje albo wznawia film\n* Po Następnym i Poprzednim film sam przechodzi do odtwarzacza (także player vk)\n* Player vk: po Wstecz i ponownym Play film znów się otwiera\n* naszeanime: „Poprzedni” przy ukrytych obejrzanych odcinkach\n* Pomijanie openingu: nauka od 1. odcinka, przycisk od 2.–3., Lewo/Prawo nie przewija\n* Ustawienia: wyszukiwarka także na telefonie; telefon: kafelki ekranu połączenia bez przewijania"
+    },
     {
       "versionCode": 1057,
       "versionName": "v2.0.19",
