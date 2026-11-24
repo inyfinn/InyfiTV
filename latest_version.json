@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.16",
-      "latestVersionCode": 1054,
+      "latestVersionName": "v2.0.17",
+      "latestVersionCode": 1055,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.16/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.17/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.16",
-      "latestVersionCode": 1054,
+      "latestVersionName": "v2.0.17",
+      "latestVersionCode": 1055,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.16/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.17/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1055,
+      "versionName": "v2.0.17",
+      "changes": "* Logowanie z telefonu: „Zalogowano” pojawia się tylko wtedy, gdy strona na telewizorze naprawdę przestała prosić o logowanie; inaczej telefon pisze wprost, co się stało\n* Błędne hasło: telefon dowiaduje się, że strona je odrzuciła, i prosi o zamknięcie okna (OK) na telewizorze\n* Nowa akcja „Zaloguj się na <telewizor>” bez pytania o potwierdzenie\n* Znany telewizor nie pyta ponownie o połączenie po „Otwórz w aplikacji”; „Sprawdzam telewizor…” nie wisi bez końca\n* „Otwórz stronę” z notki wraca do otwartej karty zamiast otwierać nową"
+    },
     {
       "versionCode": 1054,
       "versionName": "v2.0.16",
