@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.18",
-      "latestVersionCode": 1056,
+      "latestVersionName": "v2.0.19",
+      "latestVersionCode": 1057,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.18/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.19/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.18",
-      "latestVersionCode": 1056,
+      "latestVersionName": "v2.0.19",
+      "latestVersionCode": 1057,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.18/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.19/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1057,
+      "versionName": "v2.0.19",
+      "changes": "* Ustawienia: wyszukiwarka u góry, kategorie z ikonami, opcje jako karty, mniejszy tekst; pasek „Uruchom ponownie” tylko po zmianie\n* Przycisk kart w górnym pasku\n* Odtwarzacz: ikona „Odwróć kolory”; w Ustawieniach „Odwracanie kolorów: Wykrywaj sam / Zawsze / Nigdy”\n* Player vk: panel „Oglądaj także” schowany, kursor celuje we właściwy Play\n* Widok witryny Mobilny / Tablet / Komputer zmienia układ ogladajanime\n* naszeanime: kursor na „Kontynuuj z Discord”; notka o wolnym ładowaniu tylko przy zablokowanych elementach\n* Mniejsze notki, „Następny odcinek” z odliczaniem; okno „Opuścić stronę?” bez adresu wewnętrznego\n* Telefon: wynik logowania zostaje do zamknięcia, pełny tekst"
+    },
     {
       "versionCode": 1056,
       "versionName": "v2.0.18",
