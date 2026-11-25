@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.22",
-      "latestVersionCode": 1060,
+      "latestVersionName": "v2.0.23",
+      "latestVersionCode": 1061,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.22/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.23/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.22",
-      "latestVersionCode": 1060,
+      "latestVersionName": "v2.0.23",
+      "latestVersionCode": 1061,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.22/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.23/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1061,
+      "versionName": "v2.0.23",
+      "changes": "* Pomijanie endingu działa także na filmach HLS: po wyuczeniu openingu odtwarzacz uczy się endingu i pokazuje „Pomiń ending”"
+    },
     {
       "versionCode": 1060,
       "versionName": "v2.0.22",
