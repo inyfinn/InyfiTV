@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.24",
-      "latestVersionCode": 1062,
+      "latestVersionName": "v2.0.25",
+      "latestVersionCode": 1063,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.24/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.25/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.24",
-      "latestVersionCode": 1062,
+      "latestVersionName": "v2.0.25",
+      "latestVersionCode": 1063,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.24/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.25/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1063,
+      "versionName": "v2.0.25",
+      "changes": "* Play jednym OK: pierwsze OK na odcinku od razu rusza film\n* Na starcie TV karty z telefonu („Karty z: …”)\n* Mniej pamięci przy wielu kartach: w tle żyją najwyżej 3\n* Po Wstecz film strony czeka zapauzowany do Twojego Play\n* Zablokowane okno: notatka mówi, gdzie to zmienić"
+    },
     {
       "versionCode": 1062,
       "versionName": "v2.0.24",
