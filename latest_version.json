@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.23",
-      "latestVersionCode": 1061,
+      "latestVersionName": "v2.0.24",
+      "latestVersionCode": 1062,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.23/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.24/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.23",
-      "latestVersionCode": 1061,
+      "latestVersionName": "v2.0.24",
+      "latestVersionCode": 1062,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.23/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.24/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1062,
+      "versionName": "v2.0.24",
+      "changes": "* „Oglądaj dalej” synchronizuje się między telefonem a telewizorem\n* Tryb lekki dla jednej witryny (Ustawienia witryny), globalny bez ponownego uruchomienia\n* Po Następnym czarny ekran z numerem odcinka zamiast starej klatki\n* Ustawienia → Pilot i kursor: „Wypróbuj sterowanie”\n* Kliknięcie myszą w Play przejmuje film jak OK\n* Kafel strony pokazuje obraz jej strony głównej, nie plakat serii\n* Bezpieczeństwo: strony nie zapisują plików i nie podrabiają kliknięć"
+    },
     {
       "versionCode": 1061,
       "versionName": "v2.0.23",
