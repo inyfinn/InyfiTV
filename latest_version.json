@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.21",
-      "latestVersionCode": 1059,
+      "latestVersionName": "v2.0.22",
+      "latestVersionCode": 1060,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.21/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.22/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.21",
-      "latestVersionCode": 1059,
+      "latestVersionName": "v2.0.22",
+      "latestVersionCode": 1060,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.21/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.22/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1060,
+      "versionName": "v2.0.22",
+      "changes": "* Wstecz zawsze zamyka odtwarzacz InyfiTV, także gdy otworzył się po wyborze źródła na stronie\n* Po Wstecz film strony zostaje zatrzymany (nie gra wyciszony w tle)\n* Wiersz „Źródło” w ustawieniach wideo pokazuje źródło w użyciu\n* Pomijanie openingu: przyciski bez „OK”; ending uczy się także na filmach HLS\n* Kafle stron: logo o słabym kontraście na jasnej płytce albo litera\n* Telefon: osobne ikony kafli synchronizacji"
+    },
     {
       "versionCode": 1059,
       "versionName": "v2.0.21",
