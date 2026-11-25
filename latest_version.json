@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.25",
-      "latestVersionCode": 1063,
+      "latestVersionName": "v2.0.26",
+      "latestVersionCode": 1064,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.25/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.26/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.25",
-      "latestVersionCode": 1063,
+      "latestVersionName": "v2.0.26",
+      "latestVersionCode": 1064,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.25/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.26/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1064,
+      "versionName": "v2.0.26",
+      "changes": "* Play jednym OK także po zamknięciu zgody na ciasteczka\n* Play jednym OK także po kliknięciu myszą (air-mouse)\n* Po zamknięciu odtwarzacza przez nową kartę strona od razu słucha pilota"
+    },
     {
       "versionCode": 1063,
       "versionName": "v2.0.25",
