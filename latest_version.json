@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.27",
-      "latestVersionCode": 1065,
+      "latestVersionName": "v2.0.28",
+      "latestVersionCode": 1066,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.27/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.28/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.27",
-      "latestVersionCode": 1065,
+      "latestVersionName": "v2.0.28",
+      "latestVersionCode": 1066,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.27/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.28/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1066,
+      "versionName": "v2.0.28",
+      "changes": "* Pomiń ending: przycisk zawsze, także gdy ending kończy odcinek; przy krótkiej końcówce obok „Następny odcinek”\n* Ręcznie zaznaczone czasy zostają na stałe; nowe ustawienie „Ręczne czasy: Stałe / Dopasuj do dźwięku”\n* Przyciski „Pomiń” wracają po „Następny odcinek” i po ponownym wejściu\n* Twardy restart: przytrzymaj OK na „Odśwież”\n* Film, który stoi (np. po zmianie wyjścia dźwięku), otwiera się sam od nowa"
+    },
     {
       "versionCode": 1065,
       "versionName": "v2.0.27",
