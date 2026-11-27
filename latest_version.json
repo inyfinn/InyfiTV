@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.28",
-      "latestVersionCode": 1066,
+      "latestVersionName": "v2.0.29",
+      "latestVersionCode": 1067,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.28/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.29/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.28",
-      "latestVersionCode": 1066,
+      "latestVersionName": "v2.0.29",
+      "latestVersionCode": 1067,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.28/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.29/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1067,
+      "versionName": "v2.0.29",
+      "changes": "* Pomijanie wraca do rozpoznawania po dźwięku: zaznaczony opening jest wzorem, w każdym odcinku skok tam, gdzie naprawdę jest\n* Zaznaczanie: przytrzymaj OK w odtwarzaczu, wybierz Opening albo Ending, ustaw co sekundę i zatwierdź OK\n* Lewo/Prawo zawsze przewija film, także gdy widać „Pomiń”; przy dwóch przyciskach OK = Pomiń ending, Dół = Następny odcinek\n* Rozpoznawanie także dużych plików (bez limitu 110 MB), filmy do 80 minut\n* naszeanime otwiera się za pierwszym razem; tolerancja i przesuwanie czasów w ustawieniach pomijania"
+    },
     {
       "versionCode": 1066,
       "versionName": "v2.0.28",
