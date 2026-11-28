@@ -2,20 +2,25 @@
   "channels": [
     {
       "name": "release",
-      "latestVersionName": "v2.0.29",
-      "latestVersionCode": 1067,
+      "latestVersionName": "v2.0.30",
+      "latestVersionCode": 1068,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.29/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.30/InyfiTV.apk"
     },
     {
       "name": "beta",
-      "latestVersionName": "v2.0.29",
-      "latestVersionCode": 1067,
+      "latestVersionName": "v2.0.30",
+      "latestVersionCode": 1068,
       "minAPI": 24,
-      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.29/InyfiTV.apk"
+      "url": "https://github.com/inyfinn/InyfiTV/releases/download/v2.0.30/InyfiTV.apk"
     }
   ],
   "changelog": [
+    {
+      "versionCode": 1068,
+      "versionName": "v2.0.30",
+      "changes": "* Pomijanie tylko po dźwięku: zaznaczony opening to wzór dźwięku, przycisk i skok tam, gdzie ten dźwięk naprawdę jest (nigdy po zapisanych sekundach)\n* Zaznaczanie co 0,5 s; „Wstrzymaj rozpoznawanie” zamiast „Przerwij” (to, co przeczytane, zostaje)\n* Powrót do odtwarzacza po Wstecz bez ponownego ładowania; przy odmowie serwera (403) aplikacja sama odnawia adres i wznawia w tym samym miejscu\n* Czarny ekran zamiast przeładowującej się strony przy Następny/Poprzedni; film z sekcji Hero nie otwiera się sam w odtwarzaczu InyfiTV\n* Ustawienia: jedna lista naraz; panel wideo bez ramek; pasek kart bez uciętych kart; logowanie przez Discord zostaje w InyfiTV; dwa OK nie przybliżają strony"
+    },
     {
       "versionCode": 1067,
       "versionName": "v2.0.29",
